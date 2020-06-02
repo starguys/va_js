@@ -1,4 +1,16 @@
-let a = 221;
-let b = a - 5;
-a = 4;
-console.log(b, a);
+/*
+String
+const what = "Nicolas";
+*/
+/*
+Bollean
+const wat = true;
+*/
+/*
+Number;
+const wat = 666;
+*/
+/* 
+Float
+const wat = 55.1;
+*/
