@@ -1,16 +1,8 @@
-/*
-String
-const what = "Nicolas";
-*/
-/*
-Bollean
-const wat = true;
-*/
-/*
-Number;
-const wat = 666;
-*/
-/* 
-Float
-const wat = 55.1;
-*/
+const nicoInfo = {
+  name: "Nico",
+  age: 33,
+  gender: "Male",
+  isHandsome: true,
+};
+
+console.log(nicoInfo.gender);
